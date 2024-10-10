@@ -6,7 +6,7 @@ const width = 10;
 const area = (lenght, width) => lenght * width;
 
 // chu vi
-const perimeter = (lenght, width) => 2*(lenght * width);
+const perimeter = (lenght, width) => 2*(lenght + width);
 
 //tinh chu vi va dien tich
 
